@@ -5,7 +5,6 @@
 
 **Auri** is an interactive Flutter application that provides a comprehensive pictogram gallery with offline functionality. Designed with accessibility and education in mind, it helps users explore visual symbols through an intuitive, kid-friendly interface with built-in text-to-speech capabilities.
 
-![App Preview](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Auri+Pictogram+Gallery)
 
 ---
 
